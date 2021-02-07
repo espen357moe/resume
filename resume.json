@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "spartan"
+    "theme": "classy"
   },
   "basics": {
     "name": "Espen",
@@ -14,7 +14,7 @@
       "address": "Fagerheimgaten 23",
       "postalCode": "3115",
       "city": "Tønsberg",
-      "countryCode": "NO",
+      "countryCode": "Norway",
       "region": "Vestfold"
     },
     "profiles": [
@@ -35,21 +35,25 @@
       "company": "Extenda Retail / Visma Retail",
       "position": "Senior software engineer",
       "website": "https://www.extendaretail.com/",
-      "startDate": "2016-01-08",
-      "endDate": "2020-01-06",
+      "startDate": "2016-08-01",
+      "endDate": "2020-06-01",
       "summary": "Full stack development",
       "highlights": [
-        "In Extenda Retail (previously Visma Retail), Espen has developed customized solutions and integrations for the company's clients. He also acted as the Common Development & Architecture department's liaison between the Norwegian- and Kyiv-based office. Some noteworthy highlights include PickAndCollect (full stack development), the pharmacy-oriented Order Handling System (full stack development), notification services for Norgesgruppen's PickAndCollect solution (lead developer), Norgesgruppen's FlaxAdmin solution (lead developer), and NG's Scan&Go project (lead developer on integrations between on-prem and cloud-based solutions)."
+        "Scan & Go POC for Norgesgruppen, lead developer on integrations between on-prem and cloud",
+        "FlaxAdmin, lead developer",
+        "PickAndCollect notification services, lead developer",
+        "Order Handling System, full stack developer",
+        "PickAndCollect, full stack developer"
       ]
     }
   ],
   "education": [
     {
       "institution": "University College of South-Eastern Norway",
-      "area": "Information technology",
+      "area": "Information technology and IT management",
       "studyType": "Bachelor",
-      "startDate": "2013-01-08",
-      "endDate": "2016-01-06",
+      "startDate": "2013-08-01",
+      "endDate": "2016-06-01",
       "gpa": "3.42",
       "courses": [
         "Web technology development",
@@ -99,8 +103,8 @@
       "name": "Music",
       "keywords": [
         "Sound engineering",
-        "Composing",
-        "Drummer"
+        "Music production",
+        "Drumming"
       ]
     },
     {
