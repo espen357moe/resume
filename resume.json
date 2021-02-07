@@ -5,7 +5,7 @@
   "basics": {
     "name": "Espen",
     "label": "Software developer",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/8746828?s=400&u=e38288dcace8e79f5f40879d3006d8eb9d380c9f&v=4",
     "email": "espen357moe@gmail.com",
     "phone": "+47 91 76 68 97",
     "website": "http://www.espenmoe.com",
@@ -39,7 +39,7 @@
       "endDate": "2020-01-06",
       "summary": "Full stack development",
       "highlights": [
-        "In Extenda Retail (previously Visma Retail), Espen has developed customized solutions and integrations for our clients. He also acted as our department's liaison between the Norwegian- and Kyiv-based office. Some noteworthy highlights include PickAndCollect (full stack development), the pharmacy-oriented Order Handling System (full stack development), notification services for Norgesgruppen's PickAndCollect solution (lead developer), Norgesgruppen's FlaxAdmin solution (lead developer), and NG's Scan&Go project (lead developer on integrations between on-prem and cloud-based solutions)."
+        "In Extenda Retail (previously Visma Retail), Espen has developed customized solutions and integrations for the company's clients. He also acted as the Common Development & Architecture department's liaison between the Norwegian- and Kyiv-based office. Some noteworthy highlights include PickAndCollect (full stack development), the pharmacy-oriented Order Handling System (full stack development), notification services for Norgesgruppen's PickAndCollect solution (lead developer), Norgesgruppen's FlaxAdmin solution (lead developer), and NG's Scan&Go project (lead developer on integrations between on-prem and cloud-based solutions)."
       ]
     }
   ],
@@ -50,7 +50,7 @@
       "studyType": "Bachelor",
       "startDate": "2013-01-08",
       "endDate": "2016-01-06",
-      "gpa": "4.0",
+      "gpa": "3.42",
       "courses": [
         "Web technology development",
         "Database development and management",
@@ -78,6 +78,8 @@
         "JavaScript",
         "TypeScript",
         "Angular",
+        "Git",
+        "Jira",
         "Test-driven development"
       ]
     }
@@ -110,8 +112,8 @@
   ],
   "references": [
     {
-      "name": "Carsten Af Geijerstam",
-      "reference": "Team leader at Extenda Retail Common Development & Architecture"
+      "name": "Carsten Af Geijerstam, team leader at Extenda Retail Common Development & Architecture",
+      "reference": "Lorem ipsum dolor cit amet"
     }
   ]
 }
