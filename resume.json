@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "theme": "spartan"
+  },
+  "basics": {
+    "name": "Espen",
+    "label": "Software developer",
+    "picture": "",
+    "email": "espen357moe@gmail.com",
+    "phone": "+47 91 76 68 97",
+    "website": "http://www.espenmoe.com",
+    "summary": "A native of Tønsberg, Norway, Espen Moe pursued a career in software development after graduating. He has primarily worked within enterprise retail solutions and integrations for these.",
+    "location": {
+      "address": "Fagerheimgaten 23",
+      "postalCode": "3115",
+      "city": "Tønsberg",
+      "countryCode": "NO",
+      "region": "Vestfold"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Espen Moe",
+        "url": "https://www.linkedin.com/in/espen-moe-01"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Espen Moe",
+        "url": "https://soundcloud.com/espenmoe"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Extenda Retail / Visma Retail",
+      "position": "Senior software engineer",
+      "website": "https://www.extendaretail.com/",
+      "startDate": "2016-01-08",
+      "endDate": "2020-01-06",
+      "summary": "Full stack development",
+      "highlights": [
+        "In Extenda Retail (previously Visma Retail), Espen has developed customized solutions and integrations for our clients. He also acted as our department's liaison between the Norwegian- and Kyiv-based office. Some noteworthy highlights include PickAndCollect (full stack development), the pharmacy-oriented Order Handling System (full stack development), notification services for Norgesgruppen's PickAndCollect solution (lead developer), Norgesgruppen's FlaxAdmin solution (lead developer), and NG's Scan&Go project (lead developer on integrations between on-prem and cloud-based solutions)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University College of South-Eastern Norway",
+      "area": "Information technology",
+      "studyType": "Bachelor",
+      "startDate": "2013-01-08",
+      "endDate": "2016-01-06",
+      "gpa": "4.0",
+      "courses": [
+        "Web technology development",
+        "Database development and management",
+        "Desktop application development in Java and C#",
+        "Mobile app development in Java",
+        "Organization and leadership",
+        "IT projects management",
+        "Corporate IT strategy",
+        "Marketing",
+        "Scientific method in social sciences",
+        "Cloud based infrastructure",
+        "Object oriented analysis and design with UML",
+        "Software design patterns"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software development",
+      "level": "Experienced",
+      "keywords": [
+        "C#",
+        ".NET",
+        "SQL",
+        "JavaScript",
+        "TypeScript",
+        "Angular",
+        "Test-driven development"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Norwegian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent written and spoken"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Sound engineering",
+        "Composing",
+        "Drummer"
+      ]
+    },
+    {
+      "name": "Astronomy",
+      "keywords": [
+        "Hobbyist"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Carsten Af Geijerstam",
+      "reference": "Team leader at Extenda Retail Common Development & Architecture"
+    }
+  ]
+}
