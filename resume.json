@@ -1,14 +1,14 @@
 {
   "meta": {
-    "theme": "classy"
+    "theme": "kwan"
   },
   "basics": {
-    "name": "Espen",
+    "name": "Espen Moe",
     "label": "Software developer",
-    "picture": "https://avatars.githubusercontent.com/u/8746828?s=400&u=e38288dcace8e79f5f40879d3006d8eb9d380c9f&v=4",
+    "picture": "https://avatars.githubusercontent.com/u/8746828?s=400&u=3ab9a8d4761daff30e8a15028f4f1ffd3c1bf67f&v=4",
     "email": "espen357moe@gmail.com",
     "phone": "+47 91 76 68 97",
-    "website": "http://www.espenmoe.com",
+    "website": "https://www.espenmoe.com",
     "summary": "A native of Tønsberg, Norway, Espen Moe pursued a career in software development after graduating. He has primarily worked within enterprise retail solutions and integrations for these.",
     "location": {
       "address": "Fagerheimgaten 23",
@@ -33,16 +33,16 @@
   "work": [
     {
       "company": "Extenda Retail / Visma Retail",
-      "position": "Senior software engineer",
+      "position": "Software engineer",
       "website": "https://www.extendaretail.com/",
       "startDate": "2016-08-01",
       "endDate": "2021-06-01",
       "summary": "Full stack development",
       "highlights": [
-        "Scan & Go POC for Norgesgruppen, lead developer on integrations between on-prem and cloud",
-        "FlaxAdmin, lead developer",
+        "Scan & Go POC for retail self-checkout, lead developer on integrations between on-prem and cloud",
+        "FlaxAdmin lottery sales administration tool, lead developer",
         "PickAndCollect notification services, lead developer",
-        "Order Handling System, full stack developer",
+        "Order Handling System for pharmacy items, full stack developer",
         "PickAndCollect, full stack developer"
       ]
     }
@@ -108,16 +108,19 @@
       ]
     },
     {
-      "name": "Astronomy",
+      "name": "Science",
       "keywords": [
-        "Hobbyist"
+        "Astronomy",
+        "Cosmology",
+        "Space travel",
+        "Future green technologies"
       ]
     }
   ],
   "references": [
     {
       "name": "Carsten Af Geijerstam, team leader at Extenda Retail Common Development & Architecture",
-      "reference": "Lorem ipsum dolor cit amet"
+      "reference": "Espen has been a valued member of our custom development team. He is a skilled developer eager to learn about new technologies, and has also the ability to pass on his knowledge to the rest of the team. Espen has high communication skills and is highly valued both internally in the company and by our customers."
     }
   ]
 }
